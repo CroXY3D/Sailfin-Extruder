@@ -5,7 +5,7 @@ Footprint is a very compact 41x45mm and weighs 107g (with steel fasteners).
 
 ![Sailfin](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/sailfin_large.png)
 
-![Sailfin Scale](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/sailfin_scale.png)
+![Sailfin Scale](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/sailfin_scale.jpg)
 
 
 #BOM
