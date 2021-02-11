@@ -9,6 +9,7 @@ Footprint is a very compact 41x45mm and weighs 107g (with steel fasteners).
 
 
 #BOM
+* (LDO 17mm Nema14 Stepper with gear LDO-36STH17-1004AHG)[https://www.printedsolid.com/products/ldo-nema-14-motor-ldo-36sth17-1004ahg?variant=32690500370517] or 20mm version LDO-36STH20-0504AHG
 * (Bondtech BMG or clone internals.  Triangle Lab preferred)[https://www.aliexpress.com/item/4000021186440.html]
 * 1x M3x25 BHCS (SHCS may be used as well for all BHCS)
 * 2x M3x14 BHCS
