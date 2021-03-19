@@ -5,7 +5,7 @@ Footprint is a very compact 41x45mm and weighs 107g (with steel fasteners).
 
 Regular and mirrored version.   STEP files provided.
 
-This is an ALPHA release.  An official release will be made when it has been tested further.
+This is a BETA release.  An official release will be made when it has been tested further.
 
 ![Sailfin](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/sailfin_large.png)
 
@@ -22,3 +22,9 @@ This is an ALPHA release.  An official release will be made when it has been tes
 * Shim?
 
 # ASSEMBLY
+
+# TOOLHEADS
+There will be a Sailfin toolhead for CroXY soon.   A Tiny-M toolhead is available here.
+
+![Tiny-M Toolhead](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/tiny_m_toolhead.jpg)
+
