@@ -24,7 +24,7 @@ This is a BETA release.  An official release will be made when it has been teste
 # ASSEMBLY
 
 # TOOLHEADS
-There will be a Sailfin toolhead for CroXY soon.   A Tiny-M toolhead is available here.
+There will be a Sailfin toolhead for CroXY soon.   A Tiny-M toolhead which uses the Dragon hotend is available here.  If you ask nicely i'll make one for Mosquito.
 
-![Tiny-M Toolhead](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/tiny_m_toolhead.png)
+![Tiny-M Toolhead](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/tiny_m_dragon.png)
 
