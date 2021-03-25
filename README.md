@@ -22,6 +22,7 @@ This is a BETA release.  An official release will be made when it has been teste
 * Shim?
 
 # ASSEMBLY
+Assembly is fairly straightforward.  You may need to either push the white gear down 1-2 mm if it rubs on the Nema 14 motor.  Alternatively you may carefully grind off 1-2mm of the shaft.  Be careful of heat so you don't melt the nylon gear.
 
 # TOOLHEADS
 
