@@ -27,7 +27,7 @@ Assembly is fairly straightforward.  You may need to either push the white gear 
 # TOOLHEADS
 
 Toolheads are available for the following:
-* Tiny-M Dragon Toolhead
+* Tiny-M Dragon Toolhead (V3 Gantry).  V4 Gantry version is (soon to be) part of Tiny-M STLs.
 * Voron V0 Dragon
 * Voron V0 V6 Screw Mount
 
