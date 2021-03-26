@@ -3,7 +3,9 @@ A lightweight compact extruder with 5:1 gearing using BMG dual drive.   It is ca
 
 Footprint is a very compact 41x45mm and weighs 107g (with steel fasteners).
 
-Regular and mirrored version.   STEP files provided.
+Regular and mirrored version.   STEP files provided.  
+
+There also is a version of the middle body which is compatible with toolheads designed for the Scherpa extruder.
 
 This is a BETA release.  An official release will be made when it has been tested further.
 
