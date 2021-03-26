@@ -21,10 +21,13 @@ This is a BETA release.  An official release will be made when it has been teste
 * 2x M3x14 BHCS
 * 2x M3x10 BHCS
 * 5x M3 Heatserts [McMaster](https://www.mcmaster.com/94459A130/) [AliExpress M3xD4.6x4](https://www.aliexpress.com/item/4000232858343.html)
+* Short length 2mm ID, 4mm OD PTFE tube.
 * Shim?
 
 # ASSEMBLY
 Assembly is fairly straightforward.  You may need to either push the white gear down 1-2 mm if it rubs on the Nema 14 motor.  Alternatively you may carefully grind off 1-2mm of the shaft.  Be careful of heat so you don't melt the nylon gear.
+
+The cut guide helper is intended to help you cut the PTFE tube.   Place the PTFE tube in your toolhead and position the cut guide above it.  Use a razor blade to cut the tube.  It's helpful to countersink the top end of the tube.
 
 # TOOLHEADS
 
