@@ -3,7 +3,9 @@ A lightweight compact extruder with 5:1 gearing using BMG dual drive.   It is ca
 
 Footprint is a very compact 41x45mm and weighs 107g (with steel fasteners).
 
-Regular and mirrored version.   STEP files provided.
+Regular and mirrored version.   STEP files provided.  
+
+There also is a version of the middle body which is compatible with toolheads designed for the Scherpa extruder.
 
 This is a BETA release.  An official release will be made when it has been tested further.
 
@@ -22,9 +24,16 @@ This is a BETA release.  An official release will be made when it has been teste
 * Shim?
 
 # ASSEMBLY
+Assembly is fairly straightforward.  You may need to either push the white gear down 1-2 mm if it rubs on the Nema 14 motor.  Alternatively you may carefully grind off 1-2mm of the shaft.  Be careful of heat so you don't melt the nylon gear.
 
 # TOOLHEADS
-There will be a Sailfin toolhead for CroXY soon.   A Tiny-M toolhead which uses the Dragon hotend is available here.  If you ask nicely i'll make one for Mosquito.
+
+Toolheads are available for the following:
+* Tiny-M Dragon Toolhead (V3 Gantry).  V4 Gantry version is (soon to be) part of Tiny-M STLs.
+* Voron V0 Dragon
+* Voron V0 V6 Screw Mount
+
+There will be a Sailfin toolhead for CroXY soon.   
 
 ![Tiny-M Toolhead](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/tiny_m_dragon.png)
 
