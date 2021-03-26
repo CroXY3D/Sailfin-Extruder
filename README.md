@@ -36,6 +36,8 @@ Toolheads are available for the following:
 * Voron V0 Dragon
 * Voron V0 V6 Screw Mount
 
+There is a version of the middle body that should be compatible with most Scherpa toolheads.  The motor sits a couple mm lower on the Sailfin, so you may also need a 2mm thick printed spacer to raise the Sailfin.
+
 There will be a Sailfin toolhead for CroXY soon.   
 
 ![Tiny-M Toolhead](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/tiny_m_dragon.png)
