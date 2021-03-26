@@ -32,7 +32,8 @@ The cut guide helper is intended to help you cut the PTFE tube.   Place the PTFE
 # TOOLHEADS
 
 Toolheads are available for the following:
-* Tiny-M Dragon Toolhead (V3 Gantry).  V4 Gantry version is (soon to be) part of Tiny-M STLs.
+* Tiny-M V3 Gantry Dragon Toolhead
+* Tiny-M V4 Gantry Toolhead (on Tiny-M GitHub)
 * Voron V0 Dragon
 * Voron V0 V6 Screw Mount
 
