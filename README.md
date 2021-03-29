@@ -21,17 +21,27 @@ This is a BETA release.  An official release will be made when it has been teste
 * 2x M3x14 BHCS
 * 2x M3x10 BHCS
 * 5x M3 Heatserts [McMaster](https://www.mcmaster.com/94459A130/) [AliExpress M3xD4.6x4](https://www.aliexpress.com/item/4000232858343.html)
+* Short length 2mm ID, 4mm OD PTFE tube.
 * Shim?
 
 # ASSEMBLY
-Assembly is fairly straightforward.  You may need to either push the white gear down 1-2 mm if it rubs on the Nema 14 motor.  Alternatively you may carefully grind off 1-2mm of the shaft.  Be careful of heat so you don't melt the nylon gear.
+Assembly is fairly straightforward.  
+
+There are two parts with small membranes in holes to make printing a solid bridge.  Drill with 3mm drill bit the membrane on the lever and the membrane on the rear piece.
+
+You may need to either push the white gear down 1-2 mm if it rubs on the Nema 14 motor.  Alternatively you may carefully grind off 1-2mm of the shaft.  Be careful of heat so you don't melt the nylon gear.
+
+The cut guide helper is intended to help you cut the PTFE tube.   Place the PTFE tube in your toolhead and position the cut guide above it.  Use a razor blade to cut the tube.  It's helpful to countersink the top end of the tube.
 
 # TOOLHEADS
 
 Toolheads are available for the following:
-* Tiny-M Dragon Toolhead (V3 Gantry).  V4 Gantry version is (soon to be) part of Tiny-M STLs.
+* Tiny-M V3 Gantry Dragon Toolhead
+* Tiny-M V4 Gantry Toolhead (on Tiny-M GitHub)
 * Voron V0 Dragon
 * Voron V0 V6 Screw Mount
+
+There is a version of the middle body that should be compatible with most Scherpa toolheads.  The motor sits a couple mm lower on the Sailfin, so you may also need a 2mm thick printed spacer to raise the Sailfin.
 
 There will be a Sailfin toolhead for CroXY soon.   
 
