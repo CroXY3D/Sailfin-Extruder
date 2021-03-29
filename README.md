@@ -25,7 +25,11 @@ This is a BETA release.  An official release will be made when it has been teste
 * Shim?
 
 # ASSEMBLY
-Assembly is fairly straightforward.  You may need to either push the white gear down 1-2 mm if it rubs on the Nema 14 motor.  Alternatively you may carefully grind off 1-2mm of the shaft.  Be careful of heat so you don't melt the nylon gear.
+Assembly is fairly straightforward.  
+
+There are two parts with small membranes in holes to make printing a solid bridge.  Drill out the membrane on the slot on the lever and the membrane on the rear piece.
+
+You may need to either push the white gear down 1-2 mm if it rubs on the Nema 14 motor.  Alternatively you may carefully grind off 1-2mm of the shaft.  Be careful of heat so you don't melt the nylon gear.
 
 The cut guide helper is intended to help you cut the PTFE tube.   Place the PTFE tube in your toolhead and position the cut guide above it.  Use a razor blade to cut the tube.  It's helpful to countersink the top end of the tube.
 
