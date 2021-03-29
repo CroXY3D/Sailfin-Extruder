@@ -27,7 +27,7 @@ This is a BETA release.  An official release will be made when it has been teste
 # ASSEMBLY
 Assembly is fairly straightforward.  
 
-There are two parts with small membranes in holes to make printing a solid bridge.  Drill out the membrane on the slot on the lever and the membrane on the rear piece.
+There are two parts with small membranes in holes to make printing a solid bridge.  Drill with 3mm drill bit the membrane on the lever and the membrane on the rear piece.
 
 You may need to either push the white gear down 1-2 mm if it rubs on the Nema 14 motor.  Alternatively you may carefully grind off 1-2mm of the shaft.  Be careful of heat so you don't melt the nylon gear.
 
