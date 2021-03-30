@@ -22,7 +22,7 @@ This is a BETA release.  An official release will be made when it has been teste
 * 2x M3x10 BHCS
 * 5x M3 Heatserts [McMaster](https://www.mcmaster.com/94459A130/) [AliExpress M3xD4.6x4](https://www.aliexpress.com/item/4000232858343.html)
 * Short length 2mm ID, 4mm OD PTFE tube.
-* Optional [Nema14 heatsink](https://www.filastruder.com/products/heatsink-for-pg35l-geared-stepper-motor?_pos=5&_sid=4f2b94743&_ss=r).  The motor is same diam as other 540 size RC motors so there are other heatsinks available from RC shops.
+* Optional [Nema14 heatsink](https://www.filastruder.com/products/heatsink-for-pg35l-geared-stepper-motor?_pos=5&_sid=4f2b94743&_ss=r).  Enables higher motor current and more torque.  The motor is same diam as other 540 size RC motors so there are other heatsinks available from RC shops.
 * Optional [Thermal tape for the heatsink](https://smile.amazon.com/Thermal-Adhesive-Performance-Heatsink-Computer/dp/B085CLXM7J/ref=sr_1_3?dchild=1&keywords=thermal+tape&qid=1617072316&sr=8-3)
 
 # ASSEMBLY
