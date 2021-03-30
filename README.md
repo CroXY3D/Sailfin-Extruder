@@ -32,7 +32,7 @@ There are two parts with small membranes in holes to make printing a solid bridg
 
 You may need to either push the white gear down 1-2 mm if it rubs on the Nema 14 motor.  Alternatively you may carefully grind off 1-2mm of the shaft.  Be careful of heat so you don't melt the nylon gear.
 
-The cut guide helper is intended to help you cut the PTFE tube.   Place the PTFE tube in your toolhead and position the cut guide above it.  Use a razor blade to cut the tube.  It's helpful to countersink the top end of the tube.
+The cut guide helper is intended to help you cut the PTFE tube.   Place the PTFE tube in your toolhead and position the cut guide above it.  Use a razor blade to cut the tube.  It's helpful to countersink the top end of the tube with a chamfer bit or a conical deburring tool.
 
 # TOOLHEADS
 
