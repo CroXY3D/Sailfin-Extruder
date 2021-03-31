@@ -44,7 +44,13 @@ Toolheads are available for the following:
 
 There is a version of the middle body that should be compatible with most Scherpa toolheads.  The motor sits a couple mm lower on the Sailfin, so you may also need a 2mm thick printed spacer to raise the Sailfin.
 
+If you design a toolhead around it, let me know and i'll link or post STLs here.
+
 There will be a Sailfin toolhead for CroXY soon.   
+
+# MODS
+
+None yet other than the version with Scherpa toolhead footprint.  But have at it!  Let me know what you did and I'll post a link or STLs here.
 
 ![Tiny-M Toolhead](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/tiny_m_dragon.png)
 
