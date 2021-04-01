@@ -22,7 +22,8 @@ This is a BETA release.  An official release will be made when it has been teste
 * 2x M3x10 BHCS
 * 5x M3 Heatserts [McMaster](https://www.mcmaster.com/94459A130/) [AliExpress M3xD4.6x4](https://www.aliexpress.com/item/4000232858343.html)
 * Short length 2mm ID, 4mm OD PTFE tube.
-* Shim?
+* Optional [Nema14 heatsink](https://www.filastruder.com/products/heatsink-for-pg35l-geared-stepper-motor?_pos=5&_sid=4f2b94743&_ss=r).  Enables higher motor current and more torque.  The motor is same diam as other 540 size RC motors so there are other heatsinks available from RC shops.
+* Optional [Thermal tape for the heatsink](https://smile.amazon.com/Thermal-Adhesive-Performance-Heatsink-Computer/dp/B085CLXM7J/ref=sr_1_3?dchild=1&keywords=thermal+tape&qid=1617072316&sr=8-3)
 
 # ASSEMBLY
 Assembly is fairly straightforward.  
@@ -31,7 +32,7 @@ There are two parts with small membranes in holes to make printing a solid bridg
 
 You may need to either push the white gear down 1-2 mm if it rubs on the Nema 14 motor.  Alternatively you may carefully grind off 1-2mm of the shaft.  Be careful of heat so you don't melt the nylon gear.
 
-The cut guide helper is intended to help you cut the PTFE tube.   Place the PTFE tube in your toolhead and position the cut guide above it.  Use a razor blade to cut the tube.  It's helpful to countersink the top end of the tube.
+The cut guide helper is intended to help you cut the PTFE tube.   Place the PTFE tube in your toolhead and position the cut guide above it.  Use a razor blade to cut the tube.  It's helpful to countersink the top end of the tube with a chamfer bit or a conical deburring tool.
 
 # TOOLHEADS
 
@@ -43,7 +44,13 @@ Toolheads are available for the following:
 
 There is a version of the middle body that should be compatible with most Scherpa toolheads.  The motor sits a couple mm lower on the Sailfin, so you may also need a 2mm thick printed spacer to raise the Sailfin.
 
+If you design a toolhead around it, let me know and i'll link or post STLs here.
+
 There will be a Sailfin toolhead for CroXY soon.   
+
+# MODS
+
+None yet other than the version with Scherpa toolhead footprint.  But have at it!  Let me know what you did and I'll post a link or STLs here.
 
 ![Tiny-M Toolhead](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/tiny_m_dragon.png)
 
