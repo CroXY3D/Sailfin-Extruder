@@ -9,6 +9,8 @@ There also is a version of the middle body which is compatible with toolheads de
 
 This is a BETA release.  An official release will be made when it has been tested further.
 
+Special thanks to Anlin over at Annex Engineering and his Sherpa mini extruder for inspiring the creation of Sailfin.
+
 ![Sailfin](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/sailfin_large.png)
 
 ![Sailfin Scale](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/sailfin_scale.jpg)
