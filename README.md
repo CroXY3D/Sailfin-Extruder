@@ -50,6 +50,8 @@ If you design a toolhead around it, let me know and i'll link or post STLs here.
 
 There will be a Sailfin toolhead for CroXY soon.   
 
+[Nice V0 toolhead that supports Sailfin](https://github.com/KurioHonoo/Mini-AfterSherpa/)
+
 # MODS
 
 None yet other than the version with Sherpa toolhead footprint.  But have at it!  Let me know what you did and I'll post a link or STLs here.
