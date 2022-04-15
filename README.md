@@ -53,5 +53,5 @@ There will be a Sailfin toolhead for CroXY soon.
 
 # MODS
 
-![Kayos Maker Mods with some changes for better fitting on Mini-AB](https://github.com/KayosMaker/Sailfin-Extruder)
+[Kayos Maker Mods with some changes for better fitting on Mini-AB](https://github.com/KayosMaker/Sailfin-Extruder)
 
