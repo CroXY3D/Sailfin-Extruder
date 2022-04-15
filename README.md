@@ -53,8 +53,5 @@ There will be a Sailfin toolhead for CroXY soon.
 
 # MODS
 
-None yet other than the version with Sherpa toolhead footprint.  But have at it!  Let me know what you did and I'll post a link or STLs here.
-
-![Tiny-M Toolhead](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/tiny_m_dragon.png)
 ![Kayos Maker Mods with some changes for better fitting on Mini-AB](https://github.com/KayosMaker/Sailfin-Extruder)
 
