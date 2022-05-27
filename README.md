@@ -7,8 +7,6 @@ Regular and mirrored version.   STEP files provided.
 
 There also is a version of the middle body which is compatible with toolheads designed for the Sherpa extruder.
 
-This is a BETA release.  An official release will be made when it has been tested further.
-
 Special thanks to Anlin over at Annex Engineering and his Sherpa mini extruder for inspiring the creation of Sailfin.
 
 ![Sailfin](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/sailfin_large.png)
@@ -50,11 +48,12 @@ If you design a toolhead around it, let me know and i'll link or post STLs here.
 
 There will be a Sailfin toolhead for CroXY soon.   
 
+
 [Nice V0 toolhead that supports Sailfin](https://github.com/KurioHonoo/Mini-AfterSherpa/)
 
 # MODS
 
-None yet other than the version with Sherpa toolhead footprint.  But have at it!  Let me know what you did and I'll post a link or STLs here.
+[Kayos Maker Mods with some changes for better fitting on Mini-AB](https://github.com/KayosMaker/Sailfin-Extruder)
 
-![Tiny-M Toolhead](https://github.com/CroXY3D/Sailfin-Extruder/blob/main/images/tiny_m_dragon.png)
+He also is working on a "Sharkfin" mod.  Poke around his git to find it.
 
